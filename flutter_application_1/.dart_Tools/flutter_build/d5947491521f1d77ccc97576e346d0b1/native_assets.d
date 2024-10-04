@@ -1,0 +1,1 @@
+ C:\\PemrogramanMobile\\Praktikum\ Modul\ 1\\flutter_application_1\\.dart_tool\\flutter_build\\d5947491521f1d77ccc97576e346d0b1\\native_assets.yaml: 
